@@ -1,5 +1,9 @@
 ### Hi there 👋
-🌸 I'm Frida
+##🌸 I'm Frida
+<details>
+  <summary>What I like</summary>
+  🌸🐱🏊‍♀️🥊🌌💻📖
+</details>
 
 <!--
 **FridaOntiveros/FridaOntiveros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
