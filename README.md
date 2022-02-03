@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌸 ##I'm Frida
+🌸 I'm **Frida**
 <details>
   <summary>What I like</summary>
   🌸🐱🏊‍♀️🥊🌌💻📖
