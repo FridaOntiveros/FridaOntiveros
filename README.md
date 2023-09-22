@@ -3,8 +3,6 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=fridaontiveros&label=Profile%20views&color=0e75b6&style=flat" alt="fridaontiveros" /> </p>-->
 
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fridaontiveros" alt="fridaontiveros" /></a> </p> 
-
 - 🌱 I’m currently learning **in the university**
 
 - 📫 How to reach me **fridale.ontiveros@gmail.com**
