@@ -2,9 +2,8 @@
 <h3 align="center">The firefly 🌟</h3>
 
 
-- 🌱 I’m currently learning **in the university**
-
-- 📫 How to reach me **fridale.ontiveros@gmail.com**
+- 🌱 I’m currently  **developing** a dream
+- 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FridaOntiveros&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
