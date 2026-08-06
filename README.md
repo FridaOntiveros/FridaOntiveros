@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Frida</h1>
-<h3 align="center">The firefly 🌟</h3>
 
+INTP / Piscies / Geek / I don't know
 
-- 🌱 I’m currently  **developing** a dream
+✨🐈‍⬛🐙🪼🫀🪄🔮♥️📚🌯🪐🌙⚜️
+
+I loove to learn and I want to know everything, I love my work and my hobbies... 
+
+but I'm tireeed. Where does my energy scape??
+
+-  🌱 I’m currently  **developing**...?
  
