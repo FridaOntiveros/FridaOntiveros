@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Frida</h1>
 
-INTP / Piscies / Geek / STEAM Girl / I don't know...
+INTP / Piscies / Geek / STEM Girl / I don't know...
 
 ✨🐈‍⬛🐙🪼🫀🪄🔮♥️📚🌯🪐🌙⚜️
 
